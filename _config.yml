@@ -1,10 +1,10 @@
 # Site settings
 title: Irving.gx 
-SEOTitle: 郭信的博客 | Irving.gx
+SEOTitle: Irving.gx的博客 | Irving.gx
 header-img: img/post-bg-desk.jpg
 email: irving_gx@163.com
 description: "C'est la vie."
-keyword: "Irving.gx, 郭信的博客, GuoXinsayhello, 郭信, java"
+keyword: "后台开发,字节跳动,java,Irving.gx, Irving.gx的博客, GuoXinsayhello, 后台开发"
 url: "https://guoxinsayhello.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/GuoXinsayhello/GuoXinsayhello.github.io" # you code repository
