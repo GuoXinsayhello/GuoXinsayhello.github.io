@@ -4,7 +4,7 @@ title:      如何实现基于UDP的socket通信
 subtitle:   用java基于UDP实现socket通信
 date:       2020-03-25
 author:     irving.gx
-header-img: img/post-bg-coffee.jpeg
+header-img: img/bg-Prague.jpeg
 catalog: true
 tags:
     - Java,UDP,socket
