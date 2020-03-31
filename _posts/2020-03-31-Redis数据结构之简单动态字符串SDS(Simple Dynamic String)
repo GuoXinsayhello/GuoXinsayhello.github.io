@@ -1,0 +1,78 @@
+---
+layout:     post
+title:      Redis数据结构之简单动态字符串SDS
+subtitle:   机会只留给那些准备充分的人
+date:       2020-3-31
+author:     irving.gx
+header-img: img/post-bg-coffee.jpeg
+catalog: true
+tags:
+    - Redis
+---
+
+
+# 前言
+最近阅读了一下redis的源码，接下来就把自己的一点认识写在这里和大家分享一下。
+
+
+### 初见
+
+最近想了解一下redis源码，然后从官网上下载了最新版本的源码来看，发现SDS最新的数据结构已经不是书中的样子了，现在的SDS的结构是这样的
+
+ ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/wepay.jpg)
+
+
+#### 1.ping用的是什么协议，ttl是什么意思？
+
+   > ICMP（Internet控制报文协议），位于网络层，和IP协议位于同一层。TTL（time to live）表示生存时间，每当一个数据包经过一个路由器的时候这个数值就会减1,起始是有一个总数的。
+ 
+  
+  
+  - - -
+  <p align="center">如果对你有帮助，请作者喝一杯牛奶吧</p>
+     
+ ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/wepay.jpg)
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+
+        
+  
+  
+  
+
+
+ 
+ 
+
+
+
+
+
