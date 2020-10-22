@@ -21,13 +21,31 @@ ES可以做的事情非常多，主要是实时的数据分析，数据存储，
 
 # 安装与测试
 
-brew install elasticsearch安装ElasticSearch
-brew install kibana安装kibana
-可以通过elsticsearch —version查看是否安装成功
+```
+brew install elasticsearch
+```
+安装ElasticSearch
+```
+brew install kibana
+```
+安装kibana
+可以通过
+```
+elsticsearch —version
+```
+查看是否安装成功
 
 在安装好kibana以及ElasticSearch之后进入到kibana的安装目录
-执行./kibana启动kibana
-在控制台执行elasticsearch命令启动elasticsearch
+执行
+```
+./kibana
+```
+启动kibana
+在控制台执行
+```
+elasticsearch
+```
+命令启动elasticsearch
 
 访问http://localhost:5601/ 可以进入到kibana的主界面
 访问http://localhost:9200/可以看到elasticsearch的信息
