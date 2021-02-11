@@ -14,7 +14,7 @@ tags:
 # 前言
 ElasticSearch是一个功能强大的全文搜索引擎，基于Lucene，Lucene是一套用于全文检索和搜索的代码程序库。ES可以直接拆箱使用，而Lucene却不能，前者和后者的关系类似于汽车和引擎的关系。https://db-engines.com/en/ranking 这个网站上是各大数据库的使用情况的排名，可以看到es目前出于第8位。
 
-<img src="/img/article/img_demo.png"/>
+<img src="/img/kibana1.png"/>
 
 
 ES可以做的事情非常多，主要是实时的数据分析，数据存储，快速搜索等功能。比如进行文本的存储与索引，进行数据的聚合等等。kibana可以对es的数据进行可视化的显示，除了显示结果，也可以以图表的形式对数据进行展现。
