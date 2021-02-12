@@ -92,7 +92,7 @@ Java如何基于UDP实现server和client之间的通信，有以下方法可以�
   - - -
   <p align="center">如果对你有帮助，请作者喝一杯牛奶吧</p>
      
- ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/wepay.jpg)
+<img src="/img/wepay.jpg"/>
  
  
 
