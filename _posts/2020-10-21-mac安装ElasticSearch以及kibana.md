@@ -51,27 +51,27 @@ elasticsearch
 访问http://localhost:5601/ 可以进入到kibana的主界面
 访问http://localhost:9200/可以看到elasticsearch的信息
 
- ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/kibana2.png)
+<img src="/img/kibana2.png"/>
  
- ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/kibana3.png)
+<img src="/img/kibana3.png"/>
 
 在kibana界面当中可以进行es的测试
 
- ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/kibana4.png)
+<img src="/img/kibana4.png"/>
  
 下面是在kibana中存入数据
 
- ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/kibana5.png)
+<img src="/img/kibana5.png"/>
 
 # elasticsearch vs solr
 
 搜索引擎并不是只有elasticsearch,solr也是基于Lucene的搜索引擎，那么两者有什么区别呢？Solr是基于Lucene的全文搜索服务器，对外提供类似于Web-service的API接口。用户可以通过http请求，向搜索引擎服务器提交一定格式的文件，生成索引；也可以通过提出查找请求，并得到返回结果。
 
- ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/kibana6.png)
+<img src="/img/kibana6.png"/>
  
- ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/kibana7.png)
+<img src="/img/kibana7.png"/>
   
- ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/kibana8.png)
+<img src="/img/kibana8.png"/>
 
 # ElasticSearch vs Solr 总结
 
@@ -90,6 +90,6 @@ elasticsearch
 - - -
   <p align="center">如果对你有帮助，请作者喝一杯牛奶吧</p>
      
- ![image](https://raw.githubusercontent.com/GuoXinsayhello/GuoXinsayhello.github.io/master/img/wepay.jpg)
+<img src="/img/wepay.png"/>
 
 
