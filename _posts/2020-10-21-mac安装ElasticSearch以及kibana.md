@@ -90,6 +90,6 @@ elasticsearch
 - - -
   <p align="center">如果对你有帮助，请作者喝一杯牛奶吧</p>
      
-<img src="/img/wepay.png"/>
+<img src="/img/wepay.jpg"/>
 
 
